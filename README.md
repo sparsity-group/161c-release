@@ -6,3 +6,7 @@ Click the [link](https://colab.research.google.com/github/sparsity-group/161c-re
 After completing the lab, save as pdf (print page -> save as pdf), and submit to Gradescope.
 
 If pages or text is cut off at the end of your pdf, then add extra blank space in the colab with print statements.
+
+
+## Lab 1 - Due Monday, April 20th @ 11:55pm
+[Notebook Link](https://colab.research.google.com/github/sparsity-group/161c-release/blob/main/1_Pixel_Fourier_Lab/1_Pixel_Fourier.ipynb). Make sure to have your own code implementations and the answer dictionary in the PDF before submitting to Gradescope.
