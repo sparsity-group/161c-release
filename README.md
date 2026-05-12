@@ -13,3 +13,6 @@ If pages or text is cut off at the end of your pdf, then add extra blank space i
 
 ## Lab 2 - Due Wednesday, May 13th @ 11:55pm
 [Notebook Link](https://colab.research.google.com/github/sparsity-group/161c-release/blob/main/2_Filtering_Morphology_Lab/2_Filtering_Morphology.ipynb). Make sure to have your own code implementations and the answer dictionary in the PDF before submitting to Gradescope.
+
+## Lab 3 - Due Monday, May 25th @ 11:55pm
+[Notebook Link](https://colab.research.google.com/github/sparsity-group/161c-release/blob/main/3_Orientation_Lab/3_Orientation_Lab.ipynb). Make sure to have your own code implementations and the answer dictionary in the PDF before submitting to Gradescope.
